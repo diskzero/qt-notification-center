@@ -1,0 +1,5 @@
+This content is released under the MIT License.
+
+This code shows a way to send notifications from within a Qt application from C++ and Python code.
+
+Build the demo project for an example.
